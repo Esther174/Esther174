@@ -33,6 +33,7 @@ Me motiva usar la analítica para mejorar procesos, optimizar resultados y conta
 ---
 
 📫 **Contacto:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esthergonzalez/)  
+https://www.linkedin.com/in/esther-gonzalez-4a4257285/
+  
 ✉️ esthergonzalez@gmail.com  
 📍 Mendoza, Argentina 🇦🇷
