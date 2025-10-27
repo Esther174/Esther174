@@ -4,7 +4,7 @@
 
 ---
 
-🧬 Transicionando del mundo de la bioingeniería al análisis de datos.  
+🧬 Combino mi experiencia en bioingeniería con mi interés por los datos para descubrir patrones, optimizar procesos y comunicar resultados de forma clara.  
 💡 Combino mi formación técnica con herramientas como:
 
 - 🐍 **Python**  
