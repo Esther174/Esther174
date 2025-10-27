@@ -9,7 +9,7 @@
 
 - 🐍 **Python**  
 - 🧮 **SQL**
-- 🅁 **R**
+-  🅁 **R**
 - 📈 **Power BI**  
 - 🧠 **Excel avanzado**
 
