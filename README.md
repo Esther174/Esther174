@@ -8,7 +8,8 @@
 💡 Combino mi formación técnica con herramientas como:
 
 - 🐍 **Python**  
-- 🧮 **SQL**  
+- 🧮 **SQL**
+- 🅁 **R**
 - 📈 **Power BI**  
 - 🧠 **Excel avanzado**
 
